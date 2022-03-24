@@ -55,7 +55,7 @@ h2 .soon {
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
-  width: 100%;
+  
 }
 
 .email, .notify {
@@ -168,6 +168,7 @@ small.error-msg {
 
   .notify-me {
     flex-direction: row;
+    width: 500px;
   }
 
   .email {
